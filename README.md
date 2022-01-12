@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# this is Energy Infrastructure assignment 1 & 2 script for student number: 1314524
 <!--
 **1314524/1314524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
